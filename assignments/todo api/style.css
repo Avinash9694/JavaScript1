@@ -1,0 +1,10 @@
+.completed, .inProgress{
+    display: inline-block;
+    vertical-align: top;
+}
+.completed{
+    background-color: lightblue;
+}
+.inProgress{
+    background-color: lightgreen;
+}
